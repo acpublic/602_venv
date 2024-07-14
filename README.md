@@ -4,7 +4,11 @@ $ python3 -m venv .venv
 $ python -m venv .venv
 
 ## 仮想環境起動
-$ source .venv/bin/activate 
+[Linux]
+$ source .venv/bin/activate
+
+[Windows]
+$ .venv/Scripts/activate
 
 ## 仮想環境無効化
 $ deactivate
