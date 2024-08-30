@@ -3,6 +3,8 @@ $ python3 -m venv .venv
 ### または
 $ python -m venv .venv
 
+pyenvは、使用しているpythonバージョンで設定される
+
 ## 仮想環境起動
 [Linux]
 $ source .venv/bin/activate
